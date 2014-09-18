@@ -5,11 +5,12 @@ html, body {
   background: #123456; //faf8ef
   color: orange; //776e65
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
-  font-size: 18px; }
+  font-size: 18px;
+  background-image: url('N.jpg') ; //456789  }
 
 body {
   margin: 80px 0;
-background-color: #456789; 
+
 color: orange; }
 
 .heading:after {
