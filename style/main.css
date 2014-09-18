@@ -2,13 +2,15 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #faf8ef;
-  color: #776e65;
+  background: #123456; //faf8ef
+  color: orange; //776e65
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
 body {
-  margin: 80px 0; }
+  margin: 80px 0;
+background-color: #456789; 
+color: orange; }
 
 .heading:after {
   content: "";
@@ -20,7 +22,7 @@ h1.title {
   font-weight: bold;
   margin: 0;
   display: block;
-  float: left; }
+  float: left;  }
 
 @-webkit-keyframes move-up {
   0% {
@@ -60,7 +62,7 @@ h1.title {
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: white;
+  color: green;
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
@@ -101,7 +103,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #776e65;
+  color: #ffff00; //776e65
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
@@ -621,7 +623,7 @@ hr {
     height: 57.5px;
     margin-right: 10px;
     float: left;
-    border-radius: 3px;
+    border-radius: 3.5px ;
     background: rgba(238, 228, 218, 0.35); }
     .grid-cell:last-child {
       margin-right: 0; }
