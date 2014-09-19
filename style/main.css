@@ -158,6 +158,7 @@ hr {
   touch-action: none;
   background: #bbada0;
   border-radius: 6px; 
+  border: 5px ;
   width: 500px;
   height: 500px;
   -webkit-box-sizing: border-box;
@@ -229,7 +230,7 @@ hr {
   margin-right: 15px;
   float: left;
   border-radius: 100% ;
-  background: rgba(238, 228, 218, 0.0);
+  background: rgba(188, 110, 110, 0.9);  //rgba238,228,218
   }
   .grid-cell:last-child {
     margin-right: 0; }
